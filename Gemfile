@@ -16,6 +16,7 @@ gem 'kaminari'
 gem 'friendly_id'
 gem 'devise'
 gem 'textacular'
+gem 'therubyracer'
 
 group :development do
   gem 'better_errors'
